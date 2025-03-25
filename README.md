@@ -20,7 +20,7 @@
 - [x] Card 5
 - [x] Card 6
 - [x] Card 7
-## Seif Atef
+## Seif Atef**
 - [x] Snake (Game object)
 - [x] Add Snake (Action)
 - [x] Card Class (Card)
