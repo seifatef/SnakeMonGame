@@ -35,6 +35,6 @@
 - [x] Card 9
 
 #### Don't Understand Implementation
-- [ ] Empty Action (Action)
-- [ ] Grid Area (Action)
-- [ ] Status (Action)
+- [x] Empty Action (Action)
+- [x] Grid Area (Action)
+- [x] Status (Action)
